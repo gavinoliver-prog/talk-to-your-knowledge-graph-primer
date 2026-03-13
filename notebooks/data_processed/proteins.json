@@ -1,0 +1,1118 @@
+[
+  {
+    "uniprot_accession": "O00231",
+    "name": "UniProt:O00231 PSMD11"
+  },
+  {
+    "uniprot_accession": "O00232",
+    "name": "UniProt:O00232 PSMD12"
+  },
+  {
+    "uniprot_accession": "O00451",
+    "name": "UniProt:O00451 GFRA2"
+  },
+  {
+    "uniprot_accession": "O00459",
+    "name": "UniProt:O00459 PIK3R2"
+  },
+  {
+    "uniprot_accession": "O00487",
+    "name": "UniProt:O00487 PSMD14"
+  },
+  {
+    "uniprot_accession": "O14511",
+    "name": "UniProt:O14511 NRG2"
+  },
+  {
+    "uniprot_accession": "O14807",
+    "name": "UniProt:O14807 MRAS"
+  },
+  {
+    "uniprot_accession": "O14818",
+    "name": "UniProt:O14818 PSMA7"
+  },
+  {
+    "uniprot_accession": "O14827",
+    "name": "UniProt:O14827 RASGRF2"
+  },
+  {
+    "uniprot_accession": "O14944",
+    "name": "UniProt:O14944 EREG"
+  },
+  {
+    "uniprot_accession": "O15020",
+    "name": "UniProt:O15020 SPTBN2"
+  },
+  {
+    "uniprot_accession": "O15211",
+    "name": "UniProt:O15211 RGL2"
+  },
+  {
+    "uniprot_accession": "O15399",
+    "name": "UniProt:O15399 GRIN2D"
+  },
+  {
+    "uniprot_accession": "O15520",
+    "name": "UniProt:O15520 FGF10"
+  },
+  {
+    "uniprot_accession": "O43242",
+    "name": "UniProt:O43242 PSMD3"
+  },
+  {
+    "uniprot_accession": "O43320",
+    "name": "UniProt:O43320 FGF16"
+  },
+  {
+    "uniprot_accession": "O43374",
+    "name": "UniProt:O43374 RASA4"
+  },
+  {
+    "uniprot_accession": "O43559",
+    "name": "UniProt:O43559 FRS3"
+  },
+  {
+    "uniprot_accession": "O43561-2",
+    "name": "UniProt:O43561-2 LAT"
+  },
+  {
+    "uniprot_accession": "O43924",
+    "name": "UniProt:O43924 PDE6D"
+  },
+  {
+    "uniprot_accession": "O60258-1",
+    "name": "UniProt:O60258-1 FGF17"
+  },
+  {
+    "uniprot_accession": "O60542",
+    "name": "UniProt:O60542 PSPN"
+  },
+  {
+    "uniprot_accession": "O60609",
+    "name": "UniProt:O60609 GFRA3"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "name": "UniProt:O60674 JAK2"
+  },
+  {
+    "uniprot_accession": "O60725",
+    "name": "UniProt:O60725 ICMT"
+  },
+  {
+    "uniprot_accession": "O75608",
+    "name": "UniProt:O75608 LYPLA1"
+  },
+  {
+    "uniprot_accession": "O76093",
+    "name": "UniProt:O76093 FGF18"
+  },
+  {
+    "uniprot_accession": "O95267",
+    "name": "UniProt:O95267 RASGRP1"
+  },
+  {
+    "uniprot_accession": "O95294",
+    "name": "UniProt:O95294 RASAL1"
+  },
+  {
+    "uniprot_accession": "O95750",
+    "name": "UniProt:O95750 FGF19"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "name": "UniProt:P00533 EGFR"
+  },
+  {
+    "uniprot_accession": "P01111",
+    "name": "UniProt:P01111 NRAS"
+  },
+  {
+    "uniprot_accession": "P01112",
+    "name": "UniProt:P01112 HRAS"
+  },
+  {
+    "uniprot_accession": "P01116",
+    "name": "UniProt:P01116 KRAS"
+  },
+  {
+    "uniprot_accession": "P01116-1",
+    "name": "UniProt:P01116-1 KRAS"
+  },
+  {
+    "uniprot_accession": "P01116-2",
+    "name": "UniProt:P01116-2 KRAS"
+  },
+  {
+    "uniprot_accession": "P01127",
+    "name": "UniProt:P01127 PDGFB"
+  },
+  {
+    "uniprot_accession": "P01133",
+    "name": "UniProt:P01133 EGF"
+  },
+  {
+    "uniprot_accession": "P01135",
+    "name": "UniProt:P01135 TGFA"
+  },
+  {
+    "uniprot_accession": "P01589",
+    "name": "UniProt:P01589 IL2RA"
+  },
+  {
+    "uniprot_accession": "P02549",
+    "name": "UniProt:P02549 SPTA1"
+  },
+  {
+    "uniprot_accession": "P02671",
+    "name": "UniProt:P02671 FGA"
+  },
+  {
+    "uniprot_accession": "P02675",
+    "name": "UniProt:P02675 FGB"
+  },
+  {
+    "uniprot_accession": "P02679",
+    "name": "UniProt:P02679 FGG"
+  },
+  {
+    "uniprot_accession": "P02751",
+    "name": "UniProt:P02751 FN1"
+  },
+  {
+    "uniprot_accession": "P04049",
+    "name": "UniProt:P04049 RAF1"
+  },
+  {
+    "uniprot_accession": "P04085-1",
+    "name": "UniProt:P04085-1 PDGFA"
+  },
+  {
+    "uniprot_accession": "P04085-2",
+    "name": "UniProt:P04085-2 PDGFA"
+  },
+  {
+    "uniprot_accession": "P04141",
+    "name": "UniProt:P04141 CSF2"
+  },
+  {
+    "uniprot_accession": "P04275",
+    "name": "UniProt:P04275 VWF"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "name": "UniProt:P04626 ERBB2"
+  },
+  {
+    "uniprot_accession": "P05106",
+    "name": "UniProt:P05106 ITGB3"
+  },
+  {
+    "uniprot_accession": "P05113",
+    "name": "UniProt:P05113 IL5"
+  },
+  {
+    "uniprot_accession": "P05230",
+    "name": "UniProt:P05230 FGF1"
+  },
+  {
+    "uniprot_accession": "P06241",
+    "name": "UniProt:P06241 FYN"
+  },
+  {
+    "uniprot_accession": "P07196",
+    "name": "UniProt:P07196 NEFL"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "name": "UniProt:P07949 RET"
+  },
+  {
+    "uniprot_accession": "P08514",
+    "name": "UniProt:P08514 ITGA2B"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "name": "UniProt:P08581 MET"
+  },
+  {
+    "uniprot_accession": "P08620",
+    "name": "UniProt:P08620 FGF4"
+  },
+  {
+    "uniprot_accession": "P08700",
+    "name": "UniProt:P08700 IL3"
+  },
+  {
+    "uniprot_accession": "P09038",
+    "name": "UniProt:P09038 FGF2"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "name": "UniProt:P09619 PDGFRB"
+  },
+  {
+    "uniprot_accession": "P0CG47",
+    "name": "UniProt:P0CG47 UBB"
+  },
+  {
+    "uniprot_accession": "P0CG48",
+    "name": "UniProt:P0CG48 UBC"
+  },
+  {
+    "uniprot_accession": "P0DP23",
+    "name": "UniProt:P0DP23 CALM1"
+  },
+  {
+    "uniprot_accession": "P10398",
+    "name": "UniProt:P10398 ARAF"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "name": "UniProt:P10721 KIT"
+  },
+  {
+    "uniprot_accession": "P10767",
+    "name": "UniProt:P10767 FGF6"
+  },
+  {
+    "uniprot_accession": "P11277",
+    "name": "UniProt:P11277 SPTB"
+  },
+  {
+    "uniprot_accession": "P11362-1",
+    "name": "UniProt:P11362-1 FGFR1"
+  },
+  {
+    "uniprot_accession": "P11362-19",
+    "name": "UniProt:P11362-19 FGFR1"
+  },
+  {
+    "uniprot_accession": "P11487",
+    "name": "UniProt:P11487 FGF3"
+  },
+  {
+    "uniprot_accession": "P12034-1",
+    "name": "UniProt:P12034-1 FGF5"
+  },
+  {
+    "uniprot_accession": "P12931",
+    "name": "UniProt:P12931 SRC"
+  },
+  {
+    "uniprot_accession": "P13591",
+    "name": "UniProt:P13591 NCAM1"
+  },
+  {
+    "uniprot_accession": "P14210",
+    "name": "UniProt:P14210 HGF"
+  },
+  {
+    "uniprot_accession": "P14784",
+    "name": "UniProt:P14784 IL2RB"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "name": "UniProt:P15056 BRAF"
+  },
+  {
+    "uniprot_accession": "P15509",
+    "name": "UniProt:P15509 CSF2RA"
+  },
+  {
+    "uniprot_accession": "P15514",
+    "name": "UniProt:P15514 AREG"
+  },
+  {
+    "uniprot_accession": "P16234",
+    "name": "UniProt:P16234 PDGFRA"
+  },
+  {
+    "uniprot_accession": "P17980",
+    "name": "UniProt:P17980 PSMC3"
+  },
+  {
+    "uniprot_accession": "P18206",
+    "name": "UniProt:P18206 VCL"
+  },
+  {
+    "uniprot_accession": "P18433",
+    "name": "UniProt:P18433 PTPRA"
+  },
+  {
+    "uniprot_accession": "P20618",
+    "name": "UniProt:P20618 PSMB1"
+  },
+  {
+    "uniprot_accession": "P20936",
+    "name": "UniProt:P20936 RASA1"
+  },
+  {
+    "uniprot_accession": "P21359",
+    "name": "UniProt:P21359 NF1"
+  },
+  {
+    "uniprot_accession": "P21583-1",
+    "name": "UniProt:P21583-1 KITLG"
+  },
+  {
+    "uniprot_accession": "P21781",
+    "name": "UniProt:P21781 FGF7"
+  },
+  {
+    "uniprot_accession": "P21802-1",
+    "name": "UniProt:P21802-1 FGFR2"
+  },
+  {
+    "uniprot_accession": "P21802-18",
+    "name": "UniProt:P21802-18 FGFR2"
+  },
+  {
+    "uniprot_accession": "P21802-3",
+    "name": "UniProt:P21802-3 FGFR2"
+  },
+  {
+    "uniprot_accession": "P21802-5",
+    "name": "UniProt:P21802-5 FGFR2"
+  },
+  {
+    "uniprot_accession": "P21860-1",
+    "name": "UniProt:P21860-1 ERBB3"
+  },
+  {
+    "uniprot_accession": "P22455",
+    "name": "UniProt:P22455 FGFR4"
+  },
+  {
+    "uniprot_accession": "P22607-1",
+    "name": "UniProt:P22607-1 FGFR3"
+  },
+  {
+    "uniprot_accession": "P22607-2",
+    "name": "UniProt:P22607-2 FGFR3"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "name": "UniProt:P23458 JAK1"
+  },
+  {
+    "uniprot_accession": "P25786",
+    "name": "UniProt:P25786 PSMA1"
+  },
+  {
+    "uniprot_accession": "P25787",
+    "name": "UniProt:P25787 PSMA2"
+  },
+  {
+    "uniprot_accession": "P25788",
+    "name": "UniProt:P25788 PSMA3"
+  },
+  {
+    "uniprot_accession": "P25789",
+    "name": "UniProt:P25789 PSMA4"
+  },
+  {
+    "uniprot_accession": "P26045",
+    "name": "UniProt:P26045 PTPN3"
+  },
+  {
+    "uniprot_accession": "P26951",
+    "name": "UniProt:P26951 IL3RA"
+  },
+  {
+    "uniprot_accession": "P27361",
+    "name": "UniProt:P27361 MAPK3"
+  },
+  {
+    "uniprot_accession": "P27448",
+    "name": "UniProt:P27448 MARK3"
+  },
+  {
+    "uniprot_accession": "P27986",
+    "name": "UniProt:P27986 PIK3R1"
+  },
+  {
+    "uniprot_accession": "P28066",
+    "name": "UniProt:P28066 PSMA5"
+  },
+  {
+    "uniprot_accession": "P28070",
+    "name": "UniProt:P28070 PSMB4"
+  },
+  {
+    "uniprot_accession": "P28072",
+    "name": "UniProt:P28072 PSMB6"
+  },
+  {
+    "uniprot_accession": "P28074",
+    "name": "UniProt:P28074 PSMB5"
+  },
+  {
+    "uniprot_accession": "P28482",
+    "name": "UniProt:P28482 MAPK1"
+  },
+  {
+    "uniprot_accession": "P28562",
+    "name": "UniProt:P28562 DUSP1"
+  },
+  {
+    "uniprot_accession": "P29353",
+    "name": "UniProt:P29353 SHC1"
+  },
+  {
+    "uniprot_accession": "P29353-2",
+    "name": "UniProt:P29353-2 SHC1"
+  },
+  {
+    "uniprot_accession": "P29353-3",
+    "name": "UniProt:P29353-3 SHC1"
+  },
+  {
+    "uniprot_accession": "P30086",
+    "name": "UniProt:P30086 PEBP1"
+  },
+  {
+    "uniprot_accession": "P30153",
+    "name": "UniProt:P30153 PPP2R1A"
+  },
+  {
+    "uniprot_accession": "P30154",
+    "name": "UniProt:P30154 PPP2R1B"
+  },
+  {
+    "uniprot_accession": "P31371",
+    "name": "UniProt:P31371 FGF9"
+  },
+  {
+    "uniprot_accession": "P31785",
+    "name": "UniProt:P31785 IL2RG"
+  },
+  {
+    "uniprot_accession": "P31946",
+    "name": "UniProt:P31946 YWHAB"
+  },
+  {
+    "uniprot_accession": "P32121",
+    "name": "UniProt:P32121 ARRB2"
+  },
+  {
+    "uniprot_accession": "P32927",
+    "name": "UniProt:P32927 CSF2RB"
+  },
+  {
+    "uniprot_accession": "P35070",
+    "name": "UniProt:P35070 BTC"
+  },
+  {
+    "uniprot_accession": "P35232",
+    "name": "UniProt:P35232 PHB1"
+  },
+  {
+    "uniprot_accession": "P35236",
+    "name": "UniProt:P35236 PTPN7"
+  },
+  {
+    "uniprot_accession": "P35568",
+    "name": "UniProt:P35568 IRS1"
+  },
+  {
+    "uniprot_accession": "P35609",
+    "name": "UniProt:P35609 ACTN2"
+  },
+  {
+    "uniprot_accession": "P35998",
+    "name": "UniProt:P35998 PSMC2"
+  },
+  {
+    "uniprot_accession": "P36404",
+    "name": "UniProt:P36404 ARL2"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "name": "UniProt:P36507 MAP2K2"
+  },
+  {
+    "uniprot_accession": "P36873",
+    "name": "UniProt:P36873 PPP1CC"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "name": "UniProt:P36888 FLT3"
+  },
+  {
+    "uniprot_accession": "P39905",
+    "name": "UniProt:P39905 GDNF"
+  },
+  {
+    "uniprot_accession": "P41240",
+    "name": "UniProt:P41240 CSK"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "name": "UniProt:P42336 PIK3CA"
+  },
+  {
+    "uniprot_accession": "P42338",
+    "name": "UniProt:P42338 PIK3CB"
+  },
+  {
+    "uniprot_accession": "P43686",
+    "name": "UniProt:P43686 PSMC4"
+  },
+  {
+    "uniprot_accession": "P46940",
+    "name": "UniProt:P46940 IQGAP1"
+  },
+  {
+    "uniprot_accession": "P48556",
+    "name": "UniProt:P48556 PSMD8"
+  },
+  {
+    "uniprot_accession": "P49354",
+    "name": "UniProt:P49354 FNTA"
+  },
+  {
+    "uniprot_accession": "P49356",
+    "name": "UniProt:P49356 FNTB"
+  },
+  {
+    "uniprot_accession": "P49407",
+    "name": "UniProt:P49407 ARRB1"
+  },
+  {
+    "uniprot_accession": "P49720",
+    "name": "UniProt:P49720 PSMB3"
+  },
+  {
+    "uniprot_accession": "P49721",
+    "name": "UniProt:P49721 PSMB2"
+  },
+  {
+    "uniprot_accession": "P49771",
+    "name": "UniProt:P49771 FLT3LG"
+  },
+  {
+    "uniprot_accession": "P51665",
+    "name": "UniProt:P51665 PSMD7"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "name": "UniProt:P52333 JAK3"
+  },
+  {
+    "uniprot_accession": "P53041",
+    "name": "UniProt:P53041 PPP5C"
+  },
+  {
+    "uniprot_accession": "P53778",
+    "name": "UniProt:P53778 MAPK12"
+  },
+  {
+    "uniprot_accession": "P55075-1",
+    "name": "UniProt:P55075-1 FGF8"
+  },
+  {
+    "uniprot_accession": "P56159",
+    "name": "UniProt:P56159 GFRA1"
+  },
+  {
+    "uniprot_accession": "P56975",
+    "name": "UniProt:P56975 NRG3"
+  },
+  {
+    "uniprot_accession": "P60568",
+    "name": "UniProt:P60568 IL2"
+  },
+  {
+    "uniprot_accession": "P60709",
+    "name": "UniProt:P60709 ACTB"
+  },
+  {
+    "uniprot_accession": "P60896",
+    "name": "UniProt:P60896 SEM1"
+  },
+  {
+    "uniprot_accession": "P60900",
+    "name": "UniProt:P60900 PSMA6"
+  },
+  {
+    "uniprot_accession": "P61224",
+    "name": "UniProt:P61224 RAP1B"
+  },
+  {
+    "uniprot_accession": "P62140",
+    "name": "UniProt:P62140 PPP1CB"
+  },
+  {
+    "uniprot_accession": "P62191",
+    "name": "UniProt:P62191 PSMC1"
+  },
+  {
+    "uniprot_accession": "P62195",
+    "name": "UniProt:P62195 PSMC5"
+  },
+  {
+    "uniprot_accession": "P62333",
+    "name": "UniProt:P62333 PSMC6"
+  },
+  {
+    "uniprot_accession": "P62714",
+    "name": "UniProt:P62714 PPP2CB"
+  },
+  {
+    "uniprot_accession": "P62834",
+    "name": "UniProt:P62834 RAP1A"
+  },
+  {
+    "uniprot_accession": "P62877",
+    "name": "UniProt:P62877 RBX1"
+  },
+  {
+    "uniprot_accession": "P62979",
+    "name": "UniProt:P62979 RPS27A"
+  },
+  {
+    "uniprot_accession": "P62987",
+    "name": "UniProt:P62987 UBA52"
+  },
+  {
+    "uniprot_accession": "P62993-1",
+    "name": "UniProt:P62993-1 GRB2"
+  },
+  {
+    "uniprot_accession": "P63261",
+    "name": "UniProt:P63261 ACTG1"
+  },
+  {
+    "uniprot_accession": "P67775",
+    "name": "UniProt:P67775 PPP2CA"
+  },
+  {
+    "uniprot_accession": "P78352",
+    "name": "UniProt:P78352 DLG4"
+  },
+  {
+    "uniprot_accession": "P98077",
+    "name": "UniProt:P98077 SHC2"
+  },
+  {
+    "uniprot_accession": "Q01082",
+    "name": "UniProt:Q01082 SPTBN1"
+  },
+  {
+    "uniprot_accession": "Q01344",
+    "name": "UniProt:Q01344 IL5RA"
+  },
+  {
+    "uniprot_accession": "Q02297",
+    "name": "UniProt:Q02297 NRG1"
+  },
+  {
+    "uniprot_accession": "Q02297-10",
+    "name": "UniProt:Q02297-10 NRG1"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "name": "UniProt:Q02750 MAP2K1"
+  },
+  {
+    "uniprot_accession": "Q02763",
+    "name": "UniProt:Q02763 TEK"
+  },
+  {
+    "uniprot_accession": "Q04759",
+    "name": "UniProt:Q04759 PRKCQ"
+  },
+  {
+    "uniprot_accession": "Q05397",
+    "name": "UniProt:Q05397 PTK2"
+  },
+  {
+    "uniprot_accession": "Q05586",
+    "name": "UniProt:Q05586 GRIN1"
+  },
+  {
+    "uniprot_accession": "Q05923",
+    "name": "UniProt:Q05923 DUSP2"
+  },
+  {
+    "uniprot_accession": "Q07817",
+    "name": "UniProt:Q07817 BCL2L1"
+  },
+  {
+    "uniprot_accession": "Q07889",
+    "name": "UniProt:Q07889 SOS1"
+  },
+  {
+    "uniprot_accession": "Q12959",
+    "name": "UniProt:Q12959 DLG1"
+  },
+  {
+    "uniprot_accession": "Q12967",
+    "name": "UniProt:Q12967 RALGDS"
+  },
+  {
+    "uniprot_accession": "Q13115",
+    "name": "UniProt:Q13115 DUSP4"
+  },
+  {
+    "uniprot_accession": "Q13200",
+    "name": "UniProt:Q13200 PSMD2"
+  },
+  {
+    "uniprot_accession": "Q13202",
+    "name": "UniProt:Q13202 DUSP8"
+  },
+  {
+    "uniprot_accession": "Q13224",
+    "name": "UniProt:Q13224 GRIN2B"
+  },
+  {
+    "uniprot_accession": "Q13237",
+    "name": "UniProt:Q13237 PRKG2"
+  },
+  {
+    "uniprot_accession": "Q13362",
+    "name": "UniProt:Q13362 PPP2R5C"
+  },
+  {
+    "uniprot_accession": "Q13554",
+    "name": "UniProt:Q13554 CAMK2B"
+  },
+  {
+    "uniprot_accession": "Q13555",
+    "name": "UniProt:Q13555 CAMK2G"
+  },
+  {
+    "uniprot_accession": "Q13557",
+    "name": "UniProt:Q13557 CAMK2D"
+  },
+  {
+    "uniprot_accession": "Q13618",
+    "name": "UniProt:Q13618 CUL3"
+  },
+  {
+    "uniprot_accession": "Q13813",
+    "name": "UniProt:Q13813 SPTAN1"
+  },
+  {
+    "uniprot_accession": "Q13972",
+    "name": "UniProt:Q13972 RASGRF1"
+  },
+  {
+    "uniprot_accession": "Q14644",
+    "name": "UniProt:Q14644 RASA3"
+  },
+  {
+    "uniprot_accession": "Q14738",
+    "name": "UniProt:Q14738 PPP2R5D"
+  },
+  {
+    "uniprot_accession": "Q15008",
+    "name": "UniProt:Q15008 PSMD6"
+  },
+  {
+    "uniprot_accession": "Q15121",
+    "name": "UniProt:Q15121 PEA15"
+  },
+  {
+    "uniprot_accession": "Q15172",
+    "name": "UniProt:Q15172 PPP2R5A"
+  },
+  {
+    "uniprot_accession": "Q15173",
+    "name": "UniProt:Q15173 PPP2R5B"
+  },
+  {
+    "uniprot_accession": "Q15283",
+    "name": "UniProt:Q15283 RASA2"
+  },
+  {
+    "uniprot_accession": "Q15303-1",
+    "name": "UniProt:Q15303-1 ERBB4"
+  },
+  {
+    "uniprot_accession": "Q15303-2",
+    "name": "UniProt:Q15303-2 ERBB4"
+  },
+  {
+    "uniprot_accession": "Q15303-3",
+    "name": "UniProt:Q15303-3 ERBB4"
+  },
+  {
+    "uniprot_accession": "Q15389",
+    "name": "UniProt:Q15389 ANGPT1"
+  },
+  {
+    "uniprot_accession": "Q15700",
+    "name": "UniProt:Q15700 DLG2"
+  },
+  {
+    "uniprot_accession": "Q16186",
+    "name": "UniProt:Q16186 ADRM1"
+  },
+  {
+    "uniprot_accession": "Q16537",
+    "name": "UniProt:Q16537 PPP2R5E"
+  },
+  {
+    "uniprot_accession": "Q16584",
+    "name": "UniProt:Q16584 MAP3K11"
+  },
+  {
+    "uniprot_accession": "Q16690",
+    "name": "UniProt:Q16690 DUSP5"
+  },
+  {
+    "uniprot_accession": "Q16828",
+    "name": "UniProt:Q16828 DUSP6"
+  },
+  {
+    "uniprot_accession": "Q16829",
+    "name": "UniProt:Q16829 DUSP7"
+  },
+  {
+    "uniprot_accession": "Q2MJR0",
+    "name": "UniProt:Q2MJR0 SPRED3"
+  },
+  {
+    "uniprot_accession": "Q3MIN7",
+    "name": "UniProt:Q3MIN7 RGL3"
+  },
+  {
+    "uniprot_accession": "Q5T4W7",
+    "name": "UniProt:Q5T4W7 ARTN"
+  },
+  {
+    "uniprot_accession": "Q5VST6",
+    "name": "UniProt:Q5VST6 ABHD17B"
+  },
+  {
+    "uniprot_accession": "Q5VWQ8",
+    "name": "UniProt:Q5VWQ8 DAB2IP"
+  },
+  {
+    "uniprot_accession": "Q6PCB6",
+    "name": "UniProt:Q6PCB6 ABHD17C"
+  },
+  {
+    "uniprot_accession": "Q6R6M4",
+    "name": "UniProt:Q6R6M4 USP17L2"
+  },
+  {
+    "uniprot_accession": "Q6TCH7",
+    "name": "UniProt:Q6TCH7 PAQR3"
+  },
+  {
+    "uniprot_accession": "Q6UW88",
+    "name": "UniProt:Q6UW88 EPGN"
+  },
+  {
+    "uniprot_accession": "Q6VAB6",
+    "name": "UniProt:Q6VAB6 KSR2"
+  },
+  {
+    "uniprot_accession": "Q7Z569",
+    "name": "UniProt:Q7Z569 BRAP"
+  },
+  {
+    "uniprot_accession": "Q7Z5G4",
+    "name": "UniProt:Q7Z5G4 GOLGA7"
+  },
+  {
+    "uniprot_accession": "Q7Z5R6",
+    "name": "UniProt:Q7Z5R6 APBB1IP"
+  },
+  {
+    "uniprot_accession": "Q7Z698",
+    "name": "UniProt:Q7Z698 SPRED2"
+  },
+  {
+    "uniprot_accession": "Q7Z699",
+    "name": "UniProt:Q7Z699 SPRED1"
+  },
+  {
+    "uniprot_accession": "Q86YV0",
+    "name": "UniProt:Q86YV0 RASAL3"
+  },
+  {
+    "uniprot_accession": "Q86Z14",
+    "name": "UniProt:Q86Z14 KLB"
+  },
+  {
+    "uniprot_accession": "Q8IV61",
+    "name": "UniProt:Q8IV61 RASGRP3"
+  },
+  {
+    "uniprot_accession": "Q8IVT5",
+    "name": "UniProt:Q8IVT5 KSR1"
+  },
+  {
+    "uniprot_accession": "Q8N9B8",
+    "name": "UniProt:Q8N9B8 RASGEF1A"
+  },
+  {
+    "uniprot_accession": "Q8NFM7",
+    "name": "UniProt:Q8NFM7 IL17RD"
+  },
+  {
+    "uniprot_accession": "Q8TDF6",
+    "name": "UniProt:Q8TDF6 RASGRP4"
+  },
+  {
+    "uniprot_accession": "Q8WU20",
+    "name": "UniProt:Q8WU20 FRS2"
+  },
+  {
+    "uniprot_accession": "Q8WVZ9",
+    "name": "UniProt:Q8WVZ9 KBTBD7"
+  },
+  {
+    "uniprot_accession": "Q8WWG1",
+    "name": "UniProt:Q8WWG1 NRG4"
+  },
+  {
+    "uniprot_accession": "Q8WXI2",
+    "name": "UniProt:Q8WXI2 CNKSR2"
+  },
+  {
+    "uniprot_accession": "Q92529",
+    "name": "UniProt:Q92529 SHC3"
+  },
+  {
+    "uniprot_accession": "Q92796",
+    "name": "UniProt:Q92796 DLG3"
+  },
+  {
+    "uniprot_accession": "Q969H4",
+    "name": "UniProt:Q969H4 CNKSR1"
+  },
+  {
+    "uniprot_accession": "Q96GS6",
+    "name": "UniProt:Q96GS6 ABHD17A"
+  },
+  {
+    "uniprot_accession": "Q96NW7",
+    "name": "UniProt:Q96NW7 LRRC7"
+  },
+  {
+    "uniprot_accession": "Q96PV0",
+    "name": "UniProt:Q96PV0 SYNGAP1"
+  },
+  {
+    "uniprot_accession": "Q96S59",
+    "name": "UniProt:Q96S59 RANBP9"
+  },
+  {
+    "uniprot_accession": "Q99075",
+    "name": "UniProt:Q99075 HBEGF"
+  },
+  {
+    "uniprot_accession": "Q99436",
+    "name": "UniProt:Q99436 PSMB7"
+  },
+  {
+    "uniprot_accession": "Q99460",
+    "name": "UniProt:Q99460 PSMD1"
+  },
+  {
+    "uniprot_accession": "Q99748",
+    "name": "UniProt:Q99748 NRTN"
+  },
+  {
+    "uniprot_accession": "Q99956",
+    "name": "UniProt:Q99956 DUSP9"
+  },
+  {
+    "uniprot_accession": "Q9BRX9",
+    "name": "UniProt:Q9BRX9 WDR83"
+  },
+  {
+    "uniprot_accession": "Q9BY84",
+    "name": "UniProt:Q9BY84 DUSP16"
+  },
+  {
+    "uniprot_accession": "Q9GZV9",
+    "name": "UniProt:Q9GZV9 FGF23"
+  },
+  {
+    "uniprot_accession": "Q9GZZ7",
+    "name": "UniProt:Q9GZZ7 GFRA4"
+  },
+  {
+    "uniprot_accession": "Q9H254",
+    "name": "UniProt:Q9H254 SPTBN4"
+  },
+  {
+    "uniprot_accession": "Q9HCT0",
+    "name": "UniProt:Q9HCT0 FGF22"
+  },
+  {
+    "uniprot_accession": "Q9NP95",
+    "name": "UniProt:Q9NP95 FGF20"
+  },
+  {
+    "uniprot_accession": "Q9NRC6",
+    "name": "UniProt:Q9NRC6 SPTBN5"
+  },
+  {
+    "uniprot_accession": "Q9NZL6",
+    "name": "UniProt:Q9NZL6 RGL1"
+  },
+  {
+    "uniprot_accession": "Q9UEF7-1",
+    "name": "UniProt:Q9UEF7-1 KL"
+  },
+  {
+    "uniprot_accession": "Q9UEF7-2",
+    "name": "UniProt:Q9UEF7-2 KL"
+  },
+  {
+    "uniprot_accession": "Q9UHA4",
+    "name": "UniProt:Q9UHA4 LAMTOR3"
+  },
+  {
+    "uniprot_accession": "Q9UJF2",
+    "name": "UniProt:Q9UJF2 RASAL2"
+  },
+  {
+    "uniprot_accession": "Q9UNM6",
+    "name": "UniProt:Q9UNM6 PSMD13"
+  },
+  {
+    "uniprot_accession": "Q9UQ13",
+    "name": "UniProt:Q9UQ13 SHOC2"
+  },
+  {
+    "uniprot_accession": "Q9UQM7",
+    "name": "UniProt:Q9UQM7 CAMK2A"
+  },
+  {
+    "uniprot_accession": "Q9Y256",
+    "name": "UniProt:Q9Y256 RCE1"
+  },
+  {
+    "uniprot_accession": "Q9Y2Q5",
+    "name": "UniProt:Q9Y2Q5 LAMTOR2"
+  },
+  {
+    "uniprot_accession": "Q9Y397",
+    "name": "UniProt:Q9Y397 ZDHHC9"
+  },
+  {
+    "uniprot_accession": "Q9Y490",
+    "name": "UniProt:Q9Y490 TLN1"
+  },
+  {
+    "uniprot_accession": "Q9Y4G8",
+    "name": "UniProt:Q9Y4G8 RAPGEF2"
+  },
+  {
+    "uniprot_accession": "Q9Y4H2",
+    "name": "UniProt:Q9Y4H2 IRS2"
+  },
+  {
+    "uniprot_accession": "Q9Y6W6",
+    "name": "UniProt:Q9Y6W6 DUSP10"
+  }
+]

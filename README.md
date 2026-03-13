@@ -87,7 +87,7 @@ uv run jupyter lab
 Then open:
 
 ```
-notebooks/biomedical_knowledge_graph.ipynb
+notebooks/talk_to_your_graph_python_notebook.ipynb
 ```
 
 ---
@@ -128,7 +128,7 @@ SELECT ?drugLabel
 WHERE {
   ?drug ex:targets ?protein ;
         rdfs:label ?drugLabel .
-  ?protein rdfs:label "EGFR" .
+  ?protein rdfs:label|skos:altLabel "EGFR" .
 }
 ```
 

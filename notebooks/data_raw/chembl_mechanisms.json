@@ -1,0 +1,3107 @@
+[
+  {
+    "uniprot_accession": "O14944",
+    "target_chembl_id": "CHEMBL4662939",
+    "target_name": "Proepiregulin",
+    "molecule_chembl_id": "CHEMBL4594573",
+    "drug_name": "FEPIXNEBART",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Proepiregulin inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL1795071",
+    "drug_name": "RUXOLITINIB PHOSPHATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL3545241",
+    "drug_name": "AC-430",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL2035185",
+    "drug_name": "CT-1578",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL5095023",
+    "drug_name": "LS-104",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL1944698",
+    "drug_name": "ZOTIRACICLIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL3545328",
+    "drug_name": "XL-019",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL495727",
+    "drug_name": "AT-9283",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL1231124",
+    "drug_name": "AZD-1480",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL3545215",
+    "drug_name": "BMS-911543",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL2107823",
+    "drug_name": "GANDOTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL4303389",
+    "drug_name": "NS-018",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL603469",
+    "drug_name": "LESTAURTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL1078178",
+    "drug_name": "MOMELOTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL2105759",
+    "drug_name": "BARICITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL1287853",
+    "drug_name": "FEDRATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL2035187",
+    "drug_name": "PACRITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL4297216",
+    "drug_name": "FEDRATINIB HYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL5095049",
+    "drug_name": "PACRITINIB CITRATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "O60674",
+    "target_chembl_id": "CHEMBL2971",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "molecule_chembl_id": "CHEMBL3301607",
+    "drug_name": "FILGOTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL1201827",
+    "drug_name": "PANITUMUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL1201577",
+    "drug_name": "CETUXIMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL1079742",
+    "drug_name": "ERLOTINIB HYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL939",
+    "drug_name": "GEFITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL1201179",
+    "drug_name": "LAPATINIB DITOSYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL2105712",
+    "drug_name": "AFATINIB DIMALEATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3545063",
+    "drug_name": "OSIMERTINIB MESYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL1743047",
+    "drug_name": "NECITUMUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL1645462",
+    "drug_name": "AC-480",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL1947204",
+    "drug_name": "ALLITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL422872",
+    "drug_name": "AZD-4769",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL258940",
+    "drug_name": "FALNIDAMOL",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL2029988",
+    "drug_name": "CEP-32496",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL598797",
+    "drug_name": "CUDC-101",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3786343",
+    "drug_name": "OLMUTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL5314410",
+    "drug_name": "THELIATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL5314411",
+    "drug_name": "EPITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3109738",
+    "drug_name": "JNJ-26483327",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL6067986",
+    "drug_name": "AV-412",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P00533",
+    "target_chembl_id": "CHEMBL203",
+    "target_name": "Epidermal growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3545196",
+    "drug_name": "PD-0166285 HYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Epidermal growth factor receptor erbB1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P01116",
+    "target_chembl_id": "CHEMBL2189121",
+    "target_name": "GTPase KRas",
+    "molecule_chembl_id": "CHEMBL4535757",
+    "drug_name": "SOTORASIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "GTPase KRas inhibitor"
+  },
+  {
+    "uniprot_accession": "P01116",
+    "target_chembl_id": "CHEMBL2189121",
+    "target_name": "GTPase KRas",
+    "molecule_chembl_id": "CHEMBL4594350",
+    "drug_name": "ADAGRASIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "GTPase KRas inhibitor"
+  },
+  {
+    "uniprot_accession": "P01127",
+    "target_chembl_id": "CHEMBL3108633",
+    "target_name": "Platelet-derived growth factor subunit B",
+    "molecule_chembl_id": "CHEMBL3301576",
+    "drug_name": "PEGPLERANIB SODIUM",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor subunit B inhibitor"
+  },
+  {
+    "uniprot_accession": "P01135",
+    "target_chembl_id": "CHEMBL4662938",
+    "target_name": "Protransforming growth factor alpha",
+    "molecule_chembl_id": "CHEMBL4594573",
+    "drug_name": "FEPIXNEBART",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Protransforming growth factor alpha inhibitor"
+  },
+  {
+    "uniprot_accession": "P01589",
+    "target_chembl_id": "CHEMBL1778",
+    "target_name": "Interleukin-2 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL2108370",
+    "drug_name": "INOLIMOMAB",
+    "action_type": "ANTAGONIST",
+    "mechanism_of_action": "Interleukin-2 receptor alpha chain antagonist"
+  },
+  {
+    "uniprot_accession": "P01589",
+    "target_chembl_id": "CHEMBL1778",
+    "target_name": "Interleukin-2 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL2109367",
+    "drug_name": "LMB-2",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Interleukin-2 receptor alpha chain binding agent"
+  },
+  {
+    "uniprot_accession": "P01589",
+    "target_chembl_id": "CHEMBL1778",
+    "target_name": "Interleukin-2 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL2109366",
+    "drug_name": "ANTI-TAC 90 Y-HAT",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Interleukin-2 receptor alpha chain binding agent"
+  },
+  {
+    "uniprot_accession": "P01589",
+    "target_chembl_id": "CHEMBL1778",
+    "target_name": "Interleukin-2 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL4297871",
+    "drug_name": "CAMIDANLUMAB TESIRINE",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Interleukin-2 receptor alpha chain binding agent"
+  },
+  {
+    "uniprot_accession": "P02675",
+    "target_chembl_id": "CHEMBL2048",
+    "target_name": "Fibrinogen beta chain",
+    "molecule_chembl_id": "CHEMBL2109283",
+    "drug_name": "BICIROMAB BRALLOBARBITAL",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Fibrinogen beta chain binding agent"
+  },
+  {
+    "uniprot_accession": "P02751",
+    "target_chembl_id": "CHEMBL3810",
+    "target_name": "Fibronectin",
+    "molecule_chembl_id": "CHEMBL2095222",
+    "drug_name": "OCRIPLASMIN",
+    "action_type": "PROTEOLYTIC ENZYME",
+    "mechanism_of_action": "Fibronectin proteolytic enzyme"
+  },
+  {
+    "uniprot_accession": "P02751",
+    "target_chembl_id": "CHEMBL3810",
+    "target_name": "Fibronectin",
+    "molecule_chembl_id": "CHEMBL2109412",
+    "drug_name": "L19SIP 131I",
+    "action_type": "OTHER",
+    "mechanism_of_action": "Fibronectin other"
+  },
+  {
+    "uniprot_accession": "P02751",
+    "target_chembl_id": "CHEMBL3810",
+    "target_name": "Fibronectin",
+    "molecule_chembl_id": "CHEMBL2109589",
+    "drug_name": "L19TNFA",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Fibronectin binding agent"
+  },
+  {
+    "uniprot_accession": "P02751",
+    "target_chembl_id": "CHEMBL3810",
+    "target_name": "Fibronectin",
+    "molecule_chembl_id": "CHEMBL2109608",
+    "drug_name": "L19IL2",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Fibronectin binding agent"
+  },
+  {
+    "uniprot_accession": "P02751",
+    "target_chembl_id": "CHEMBL3810",
+    "target_name": "Fibronectin",
+    "molecule_chembl_id": "CHEMBL1743060",
+    "drug_name": "RADRETUMAB",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Fibronectin binding agent"
+  },
+  {
+    "uniprot_accession": "P02751",
+    "target_chembl_id": "CHEMBL3810",
+    "target_name": "Fibronectin",
+    "molecule_chembl_id": "CHEMBL2109529",
+    "drug_name": "MU-BC-1",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Fibronectin binding agent"
+  },
+  {
+    "uniprot_accession": "P02751",
+    "target_chembl_id": "CHEMBL3810",
+    "target_name": "Fibronectin",
+    "molecule_chembl_id": "CHEMBL2109413",
+    "drug_name": "AS-1409",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Fibronectin binding agent"
+  },
+  {
+    "uniprot_accession": "P04049",
+    "target_chembl_id": "CHEMBL1906",
+    "target_name": "RAF proto-oncogene serine/threonine-protein kinase",
+    "molecule_chembl_id": "CHEMBL1946170",
+    "drug_name": "REGORAFENIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase RAF inhibitor"
+  },
+  {
+    "uniprot_accession": "P04049",
+    "target_chembl_id": "CHEMBL1906",
+    "target_name": "RAF proto-oncogene serine/threonine-protein kinase",
+    "molecule_chembl_id": "CHEMBL1200485",
+    "drug_name": "SORAFENIB TOSYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase RAF inhibitor"
+  },
+  {
+    "uniprot_accession": "P04049",
+    "target_chembl_id": "CHEMBL1906",
+    "target_name": "RAF proto-oncogene serine/threonine-protein kinase",
+    "molecule_chembl_id": "CHEMBL5314407",
+    "drug_name": "ARQ-736",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase RAF inhibitor"
+  },
+  {
+    "uniprot_accession": "P04049",
+    "target_chembl_id": "CHEMBL1906",
+    "target_name": "RAF proto-oncogene serine/threonine-protein kinase",
+    "molecule_chembl_id": "CHEMBL3545263",
+    "drug_name": "LGX-806",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase RAF inhibitor"
+  },
+  {
+    "uniprot_accession": "P04049",
+    "target_chembl_id": "CHEMBL1906",
+    "target_name": "RAF proto-oncogene serine/threonine-protein kinase",
+    "molecule_chembl_id": "CHEMBL3577124",
+    "drug_name": "LY-3009120",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase RAF inhibitor"
+  },
+  {
+    "uniprot_accession": "P04049",
+    "target_chembl_id": "CHEMBL1906",
+    "target_name": "RAF proto-oncogene serine/threonine-protein kinase",
+    "molecule_chembl_id": "CHEMBL3545082",
+    "drug_name": "RG-7376",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase RAF inhibitor"
+  },
+  {
+    "uniprot_accession": "P04049",
+    "target_chembl_id": "CHEMBL1906",
+    "target_name": "RAF proto-oncogene serine/threonine-protein kinase",
+    "molecule_chembl_id": "CHEMBL3545027",
+    "drug_name": "XL-281",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase RAF inhibitor"
+  },
+  {
+    "uniprot_accession": "P04141",
+    "target_chembl_id": "CHEMBL3712955",
+    "target_name": "Granulocyte-macrophage colony-stimulating factor",
+    "molecule_chembl_id": "CHEMBL1743044",
+    "drug_name": "NAMILUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Granulocyte-macrophage colony-stimulating factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P04141",
+    "target_chembl_id": "CHEMBL3712955",
+    "target_name": "Granulocyte-macrophage colony-stimulating factor",
+    "molecule_chembl_id": "CHEMBL2109433",
+    "drug_name": "OTILIMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Granulocyte-macrophage colony-stimulating factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P04141",
+    "target_chembl_id": "CHEMBL3712955",
+    "target_name": "Granulocyte-macrophage colony-stimulating factor",
+    "molecule_chembl_id": "CHEMBL2109430",
+    "drug_name": "GIMSILUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Granulocyte-macrophage colony-stimulating factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P04141",
+    "target_chembl_id": "CHEMBL3712955",
+    "target_name": "Granulocyte-macrophage colony-stimulating factor",
+    "molecule_chembl_id": "CHEMBL3707325",
+    "drug_name": "LENZILUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Granulocyte-macrophage colony-stimulating factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P04141",
+    "target_chembl_id": "CHEMBL3712955",
+    "target_name": "Granulocyte-macrophage colony-stimulating factor",
+    "molecule_chembl_id": "CHEMBL4650518",
+    "drug_name": "PLONMARLIMAB",
+    "action_type": "ANTAGONIST",
+    "mechanism_of_action": "Granulocyte-macrophage colony-stimulating factor antagonist"
+  },
+  {
+    "uniprot_accession": "P04141",
+    "target_chembl_id": "CHEMBL3712955",
+    "target_name": "Granulocyte-macrophage colony-stimulating factor",
+    "molecule_chembl_id": "CHEMBL3039547",
+    "drug_name": "PEXASTIMOGENE DEVACIREPVEC",
+    "action_type": "VACCINE ANTIGEN",
+    "mechanism_of_action": "Granulocyte-macrophage colony-stimulating factor vaccine antigen"
+  },
+  {
+    "uniprot_accession": "P04275",
+    "target_chembl_id": "CHEMBL2021748",
+    "target_name": "von Willebrand factor",
+    "molecule_chembl_id": "CHEMBL2109624",
+    "drug_name": "CAPLACIZUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "von Willebrand factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P04275",
+    "target_chembl_id": "CHEMBL2021748",
+    "target_name": "von Willebrand factor",
+    "molecule_chembl_id": "CHEMBL2108339",
+    "drug_name": "EGAPTIVON PEGOL",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "von Willebrand factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P04275",
+    "target_chembl_id": "CHEMBL2021748",
+    "target_name": "von Willebrand factor",
+    "molecule_chembl_id": "CHEMBL2107873",
+    "drug_name": "VONICOG ALFA",
+    "action_type": "EXOGENOUS PROTEIN",
+    "mechanism_of_action": "von Willebrand factor exogenous protein"
+  },
+  {
+    "uniprot_accession": "P04275",
+    "target_chembl_id": "CHEMBL2021748",
+    "target_name": "von Willebrand factor",
+    "molecule_chembl_id": "CHEMBL4298126",
+    "drug_name": "VON WILLEBRAND FACTOR HUMAN",
+    "action_type": "EXOGENOUS PROTEIN",
+    "mechanism_of_action": "von Willebrand factor exogenous protein"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL1201585",
+    "drug_name": "TRASTUZUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL2007641",
+    "drug_name": "PERTUZUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL1743082",
+    "drug_name": "TRASTUZUMAB EMTANSINE",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 binding agent"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL1201179",
+    "drug_name": "LAPATINIB DITOSYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL2105712",
+    "drug_name": "AFATINIB DIMALEATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL1645462",
+    "drug_name": "AC-480",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL1947204",
+    "drug_name": "ALLITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL483321",
+    "drug_name": "CP-724714",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL598797",
+    "drug_name": "CUDC-101",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL3109738",
+    "drug_name": "JNJ-26483327",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL6067986",
+    "drug_name": "AV-412",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL3989868",
+    "drug_name": "TUCATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL3545200",
+    "drug_name": "S-222611",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL1614707",
+    "drug_name": "MUBRITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL1614725",
+    "drug_name": "TAK-285",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL3545111",
+    "drug_name": "HEMAY-022",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL3647420",
+    "drug_name": "PYROTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL587723",
+    "drug_name": "AEE-788",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL2103842",
+    "drug_name": "VARLITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P04626",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "molecule_chembl_id": "CHEMBL2408045",
+    "drug_name": "SAPITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P05113",
+    "target_chembl_id": "CHEMBL1169600",
+    "target_name": "Interleukin-5",
+    "molecule_chembl_id": "CHEMBL2108429",
+    "drug_name": "MEPOLIZUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Interleukin-5 inhibitor"
+  },
+  {
+    "uniprot_accession": "P05113",
+    "target_chembl_id": "CHEMBL1169600",
+    "target_name": "Interleukin-5",
+    "molecule_chembl_id": "CHEMBL2107884",
+    "drug_name": "RESLIZUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Interleukin-5 inhibitor"
+  },
+  {
+    "uniprot_accession": "P05113",
+    "target_chembl_id": "CHEMBL1169600",
+    "target_name": "Interleukin-5",
+    "molecule_chembl_id": "CHEMBL4650469",
+    "drug_name": "DEPEMOKIMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Interleukin-5 inhibitor"
+  },
+  {
+    "uniprot_accession": "P05230",
+    "target_chembl_id": "CHEMBL2120",
+    "target_name": "Fibroblast growth factor 1",
+    "molecule_chembl_id": "CHEMBL4297163",
+    "drug_name": "MUPARFOSTAT",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Acidic fibroblast growth factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P05230",
+    "target_chembl_id": "CHEMBL2120",
+    "target_name": "Fibroblast growth factor 1",
+    "molecule_chembl_id": "CHEMBL413376",
+    "drug_name": "SURAMIN HEXASODIUM",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Acidic fibroblast growth factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P06241",
+    "target_chembl_id": "CHEMBL1841",
+    "target_name": "Tyrosine-protein kinase Fyn",
+    "molecule_chembl_id": "CHEMBL3109738",
+    "drug_name": "JNJ-26483327",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase FYN inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL1946170",
+    "drug_name": "REGORAFENIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL1200485",
+    "drug_name": "SORAFENIB TOSYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL1567",
+    "drug_name": "SUNITINIB MALATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL24828",
+    "drug_name": "VANDETANIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL3707320",
+    "drug_name": "ALECTINIB HYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL574738",
+    "drug_name": "AST-487",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL2029988",
+    "drug_name": "CEP-32496",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL6067987",
+    "drug_name": "CEP-2563 DIHYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL576982",
+    "drug_name": "QUIZARTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL603469",
+    "drug_name": "LESTAURTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL572881",
+    "drug_name": "MOTESANIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL4559134",
+    "drug_name": "SELPERCATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL4582651",
+    "drug_name": "PRALSETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL4650296",
+    "drug_name": "BOS-589",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P07949",
+    "target_chembl_id": "CHEMBL2041",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "molecule_chembl_id": "CHEMBL535",
+    "drug_name": "SUNITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor RET inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL2103868",
+    "drug_name": "CABOZANTINIB S-MALATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL601719",
+    "drug_name": "CRIZOTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL2143592",
+    "drug_name": "BMS-794833",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3545419",
+    "drug_name": "TELISOTUZUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL496102",
+    "drug_name": "AMG-208",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3545359",
+    "drug_name": "ARRY-300",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3545299",
+    "drug_name": "BMS-698769",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3545050",
+    "drug_name": "BMS-817378",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3545365",
+    "drug_name": "ALTIRATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3960488",
+    "drug_name": "EMD-1204831",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL2133806",
+    "drug_name": "JNJ-38877605",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3545307",
+    "drug_name": "MERESTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL2323775",
+    "drug_name": "MK-8033",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL2001019",
+    "drug_name": "PF-04217903",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL4461070",
+    "drug_name": "SAR-125844",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL1236107",
+    "drug_name": "SGX-523",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3764045",
+    "drug_name": "TAS-115",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3545236",
+    "drug_name": "BPI-9016",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3785909",
+    "drug_name": "AMG-337",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P08581",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "molecule_chembl_id": "CHEMBL3334567",
+    "drug_name": "SAVOLITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P09038",
+    "target_chembl_id": "CHEMBL3107",
+    "target_name": "Fibroblast growth factor 2",
+    "molecule_chembl_id": "CHEMBL4297163",
+    "drug_name": "MUPARFOSTAT",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Basic fibroblast growth factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL1421",
+    "drug_name": "DASATINIB ANHYDROUS",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL1200485",
+    "drug_name": "SORAFENIB TOSYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL1642",
+    "drug_name": "IMATINIB MESYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL3545427",
+    "drug_name": "CM-082",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL3545196",
+    "drug_name": "PD-0166285 HYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL1980391",
+    "drug_name": "RG-1530",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL4545915",
+    "drug_name": "PUQUITINIB MESYLATE DIHYDRATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL6067987",
+    "drug_name": "CEP-2563 DIHYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL4303201",
+    "drug_name": "CATEQUENTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL2079588",
+    "drug_name": "TELATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL3545155",
+    "drug_name": "JI-101",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL124660",
+    "drug_name": "TANDUTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL403989",
+    "drug_name": "TG100-801",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL2109544",
+    "drug_name": "CDP-860",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL3545316",
+    "drug_name": "RINUCUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL2105756",
+    "drug_name": "TIVOZANIB HYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P09619",
+    "target_chembl_id": "CHEMBL1913",
+    "target_name": "Platelet-derived growth factor receptor beta",
+    "molecule_chembl_id": "CHEMBL535",
+    "drug_name": "SUNITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor beta inhibitor"
+  },
+  {
+    "uniprot_accession": "P0DP23",
+    "target_chembl_id": "CHEMBL6093",
+    "target_name": "Calmodulin-1",
+    "molecule_chembl_id": "CHEMBL232201",
+    "drug_name": "BENZIODARONE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Calmodulin inhibitor"
+  },
+  {
+    "uniprot_accession": "P0DP23",
+    "target_chembl_id": "CHEMBL6093",
+    "target_name": "Calmodulin-1",
+    "molecule_chembl_id": "CHEMBL24072",
+    "drug_name": "PRENYLAMINE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Calmodulin inhibitor"
+  },
+  {
+    "uniprot_accession": "P10398",
+    "target_chembl_id": "CHEMBL1169596",
+    "target_name": "Serine/threonine-protein kinase A-Raf",
+    "molecule_chembl_id": "CHEMBL3577124",
+    "drug_name": "LY-3009120",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase A-Raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1421",
+    "drug_name": "DASATINIB ANHYDROUS",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1201733",
+    "drug_name": "PAZOPANIB HYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1946170",
+    "drug_name": "REGORAFENIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1200485",
+    "drug_name": "SORAFENIB TOSYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1567",
+    "drug_name": "SUNITINIB MALATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1642",
+    "drug_name": "IMATINIB MESYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1721885",
+    "drug_name": "SU-014813",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL3545427",
+    "drug_name": "CM-082",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1614710",
+    "drug_name": "OSI-930",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL4303201",
+    "drug_name": "CATEQUENTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL2079588",
+    "drug_name": "TELATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL482968",
+    "drug_name": "ENMD-2076",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1230609",
+    "drug_name": "FORETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL124660",
+    "drug_name": "TANDUTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL2103851",
+    "drug_name": "AMUVATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL3813873",
+    "drug_name": "PEXIDARTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1278146",
+    "drug_name": "FAMITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL3545402",
+    "drug_name": "XL-820",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL5314391",
+    "drug_name": "XL-999",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P10721",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "molecule_chembl_id": "CHEMBL1908391",
+    "drug_name": "MASITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Stem cell growth factor receptor inhibitor"
+  },
+  {
+    "uniprot_accession": "P12931",
+    "target_chembl_id": "CHEMBL267",
+    "target_name": "Proto-oncogene tyrosine-protein kinase Src",
+    "molecule_chembl_id": "CHEMBL288441",
+    "drug_name": "BOSUTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase SRC inhibitor"
+  },
+  {
+    "uniprot_accession": "P12931",
+    "target_chembl_id": "CHEMBL267",
+    "target_name": "Proto-oncogene tyrosine-protein kinase Src",
+    "molecule_chembl_id": "CHEMBL24828",
+    "drug_name": "VANDETANIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase SRC inhibitor"
+  },
+  {
+    "uniprot_accession": "P12931",
+    "target_chembl_id": "CHEMBL267",
+    "target_name": "Proto-oncogene tyrosine-protein kinase Src",
+    "molecule_chembl_id": "CHEMBL5314408",
+    "drug_name": "AZD-0424",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase SRC inhibitor"
+  },
+  {
+    "uniprot_accession": "P12931",
+    "target_chembl_id": "CHEMBL267",
+    "target_name": "Proto-oncogene tyrosine-protein kinase Src",
+    "molecule_chembl_id": "CHEMBL3109738",
+    "drug_name": "JNJ-26483327",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase SRC inhibitor"
+  },
+  {
+    "uniprot_accession": "P12931",
+    "target_chembl_id": "CHEMBL267",
+    "target_name": "Proto-oncogene tyrosine-protein kinase Src",
+    "molecule_chembl_id": "CHEMBL3545196",
+    "drug_name": "PD-0166285 HYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase SRC inhibitor"
+  },
+  {
+    "uniprot_accession": "P12931",
+    "target_chembl_id": "CHEMBL267",
+    "target_name": "Proto-oncogene tyrosine-protein kinase Src",
+    "molecule_chembl_id": "CHEMBL426161",
+    "drug_name": "AZM-475271",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase SRC inhibitor"
+  },
+  {
+    "uniprot_accession": "P12931",
+    "target_chembl_id": "CHEMBL267",
+    "target_name": "Proto-oncogene tyrosine-protein kinase Src",
+    "molecule_chembl_id": "CHEMBL571546",
+    "drug_name": "TIRBANIBULIN",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase SRC inhibitor"
+  },
+  {
+    "uniprot_accession": "P12931",
+    "target_chembl_id": "CHEMBL267",
+    "target_name": "Proto-oncogene tyrosine-protein kinase Src",
+    "molecule_chembl_id": "CHEMBL217092",
+    "drug_name": "SARACATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase SRC inhibitor"
+  },
+  {
+    "uniprot_accession": "P13591",
+    "target_chembl_id": "CHEMBL3712938",
+    "target_name": "Neural cell adhesion molecule 1",
+    "molecule_chembl_id": "CHEMBL2109634",
+    "drug_name": "ONCOLYSIN S",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Neural cell adhesion molecule 1 binding agent"
+  },
+  {
+    "uniprot_accession": "P13591",
+    "target_chembl_id": "CHEMBL3712938",
+    "target_name": "Neural cell adhesion molecule 1",
+    "molecule_chembl_id": "CHEMBL1743037",
+    "drug_name": "LORVOTUZUMAB MERTANSINE",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Neural cell adhesion molecule 1 binding agent"
+  },
+  {
+    "uniprot_accession": "P14210",
+    "target_chembl_id": "CHEMBL5479",
+    "target_name": "Hepatocyte growth factor",
+    "molecule_chembl_id": "CHEMBL1743063",
+    "drug_name": "RILOTUMUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P14210",
+    "target_chembl_id": "CHEMBL5479",
+    "target_name": "Hepatocyte growth factor",
+    "molecule_chembl_id": "CHEMBL1743018",
+    "drug_name": "FICLATUZUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Hepatocyte growth factor inhibitor"
+  },
+  {
+    "uniprot_accession": "P14784",
+    "target_chembl_id": "CHEMBL3276",
+    "target_name": "Interleukin-2 receptor subunit beta",
+    "molecule_chembl_id": "CHEMBL2109326",
+    "drug_name": "MIK-BETA-1",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Interleukin-2 receptor beta chain inhibitor"
+  },
+  {
+    "uniprot_accession": "P14784",
+    "target_chembl_id": "CHEMBL3276",
+    "target_name": "Interleukin-2 receptor subunit beta",
+    "molecule_chembl_id": "CHEMBL2109610",
+    "drug_name": "HUMIK-BETA-1",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Interleukin-2 receptor beta chain inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL2105729",
+    "drug_name": "DABRAFENIB MESYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL1946170",
+    "drug_name": "REGORAFENIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL1200485",
+    "drug_name": "SORAFENIB TOSYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL1229517",
+    "drug_name": "VEMURAFENIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL5314407",
+    "drug_name": "ARQ-736",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL4209157",
+    "drug_name": "LIFIRAFENIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL2029988",
+    "drug_name": "CEP-32496",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL3545263",
+    "drug_name": "LGX-806",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL3577124",
+    "drug_name": "LY-3009120",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL4303729",
+    "drug_name": "PLIXORAFENIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL3545080",
+    "drug_name": "RG-7256",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL558752",
+    "drug_name": "RAF-265",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL3545027",
+    "drug_name": "XL-281",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P15056",
+    "target_chembl_id": "CHEMBL5145",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "molecule_chembl_id": "CHEMBL3301612",
+    "drug_name": "ENCORAFENIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein kinase B-raf inhibitor"
+  },
+  {
+    "uniprot_accession": "P16234",
+    "target_chembl_id": "CHEMBL2007",
+    "target_name": "Platelet-derived growth factor receptor alpha",
+    "molecule_chembl_id": "CHEMBL2103851",
+    "drug_name": "AMUVATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor alpha inhibitor"
+  },
+  {
+    "uniprot_accession": "P16234",
+    "target_chembl_id": "CHEMBL2007",
+    "target_name": "Platelet-derived growth factor receptor alpha",
+    "molecule_chembl_id": "CHEMBL1743049",
+    "drug_name": "OLARATUMAB",
+    "action_type": "ANTAGONIST",
+    "mechanism_of_action": "Platelet-derived growth factor receptor alpha antagonist"
+  },
+  {
+    "uniprot_accession": "P16234",
+    "target_chembl_id": "CHEMBL2007",
+    "target_name": "Platelet-derived growth factor receptor alpha",
+    "molecule_chembl_id": "CHEMBL2364651",
+    "drug_name": "TOVETUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor alpha inhibitor"
+  },
+  {
+    "uniprot_accession": "P16234",
+    "target_chembl_id": "CHEMBL2007",
+    "target_name": "Platelet-derived growth factor receptor alpha",
+    "molecule_chembl_id": "CHEMBL4204794",
+    "drug_name": "AVAPRITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor alpha inhibitor"
+  },
+  {
+    "uniprot_accession": "P16234",
+    "target_chembl_id": "CHEMBL2007",
+    "target_name": "Platelet-derived growth factor receptor alpha",
+    "molecule_chembl_id": "CHEMBL4216467",
+    "drug_name": "RIPRETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor alpha inhibitor"
+  },
+  {
+    "uniprot_accession": "P16234",
+    "target_chembl_id": "CHEMBL2007",
+    "target_name": "Platelet-derived growth factor receptor alpha",
+    "molecule_chembl_id": "CHEMBL535",
+    "drug_name": "SUNITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Platelet-derived growth factor receptor alpha inhibitor"
+  },
+  {
+    "uniprot_accession": "P22455",
+    "target_chembl_id": "CHEMBL3973",
+    "target_name": "Fibroblast growth factor receptor 4",
+    "molecule_chembl_id": "CHEMBL3908979",
+    "drug_name": "FGF401",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Fibroblast growth factor receptor 4 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL1795071",
+    "drug_name": "RUXOLITINIB PHOSPHATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL4116008",
+    "drug_name": "CERDULATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL3545249",
+    "drug_name": "GLPG-0555",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL3655081",
+    "drug_name": "ABROCITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL2106468",
+    "drug_name": "TRICETAMIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL3301607",
+    "drug_name": "FILGOTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL3301606",
+    "drug_name": "SOLCITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL3622820",
+    "drug_name": "ITACITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL3545225",
+    "drug_name": "INCB-047986",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL1078178",
+    "drug_name": "MOMELOTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL2105759",
+    "drug_name": "BARICITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL4297477",
+    "drug_name": "BREPOCITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL4577523",
+    "drug_name": "GOLIDOCITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL4298167",
+    "drug_name": "FILGOTINIB MALEATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL5315119",
+    "drug_name": "UPADACITINIB HEMIHYDRATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL4594382",
+    "drug_name": "DEURUXOLITINIB PHOSPHATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P23458",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "molecule_chembl_id": "CHEMBL6068336",
+    "drug_name": "MOMELOTINIB DIHYDROCHLORIDE MONOHYDRATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P26951",
+    "target_chembl_id": "CHEMBL3712987",
+    "target_name": "Interleukin-3 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL2109327",
+    "drug_name": "CSL-360",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Interleukin-3 receptor subunit alpha inhibitor"
+  },
+  {
+    "uniprot_accession": "P26951",
+    "target_chembl_id": "CHEMBL3712987",
+    "target_name": "Interleukin-3 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL4297573",
+    "drug_name": "TAGRAXOFUSP",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Interleukin-3 receptor subunit alpha binding agent"
+  },
+  {
+    "uniprot_accession": "P26951",
+    "target_chembl_id": "CHEMBL3712987",
+    "target_name": "Interleukin-3 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL3990038",
+    "drug_name": "FLOTETUZUMAB",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Interleukin-3 receptor subunit alpha binding agent"
+  },
+  {
+    "uniprot_accession": "P26951",
+    "target_chembl_id": "CHEMBL3712987",
+    "target_name": "Interleukin-3 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL4297837",
+    "drug_name": "TALACOTUZUMAB",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Interleukin-3 receptor subunit alpha binding agent"
+  },
+  {
+    "uniprot_accession": "P26951",
+    "target_chembl_id": "CHEMBL3712987",
+    "target_name": "Interleukin-3 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL4297991",
+    "drug_name": "PIVEKIMAB SUNIRINE",
+    "action_type": "BINDING AGENT",
+    "mechanism_of_action": "Interleukin-3 receptor subunit alpha binding agent"
+  },
+  {
+    "uniprot_accession": "P27361",
+    "target_chembl_id": "CHEMBL3385",
+    "target_name": "Mitogen-activated protein kinase 3",
+    "molecule_chembl_id": "CHEMBL3544964",
+    "drug_name": "RAVOXERTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "MAP kinase ERK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P27361",
+    "target_chembl_id": "CHEMBL3385",
+    "target_name": "Mitogen-activated protein kinase 3",
+    "molecule_chembl_id": "CHEMBL4213970",
+    "drug_name": "MK-8353",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "MAP kinase ERK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P27361",
+    "target_chembl_id": "CHEMBL3385",
+    "target_name": "Mitogen-activated protein kinase 3",
+    "molecule_chembl_id": "CHEMBL3590106",
+    "drug_name": "ULIXERTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "MAP kinase ERK1 inhibitor"
+  },
+  {
+    "uniprot_accession": "P28482",
+    "target_chembl_id": "CHEMBL4040",
+    "target_name": "Mitogen-activated protein kinase 1",
+    "molecule_chembl_id": "CHEMBL3544964",
+    "drug_name": "RAVOXERTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "MAP kinase ERK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P28482",
+    "target_chembl_id": "CHEMBL4040",
+    "target_name": "Mitogen-activated protein kinase 1",
+    "molecule_chembl_id": "CHEMBL4213970",
+    "drug_name": "MK-8353",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "MAP kinase ERK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P28482",
+    "target_chembl_id": "CHEMBL4040",
+    "target_name": "Mitogen-activated protein kinase 1",
+    "molecule_chembl_id": "CHEMBL3590106",
+    "drug_name": "ULIXERTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "MAP kinase ERK2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL2105741",
+    "drug_name": "TRAMETINIB DIMETHYL SULFOXIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL2364607",
+    "drug_name": "COBIMETINIB FUMARATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL3545243",
+    "drug_name": "AS-703988",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL3182621",
+    "drug_name": "AZD-8330",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL2104954",
+    "drug_name": "BALAMAPIMOD",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL3264002",
+    "drug_name": "AVUTOMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL1614766",
+    "drug_name": "RO-4987655",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL1615025",
+    "drug_name": "TAK-733",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL3545145",
+    "drug_name": "WX-554",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL2107832",
+    "drug_name": "PIMASERTIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL1614701",
+    "drug_name": "SELUMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL1236682",
+    "drug_name": "REFAMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL105442",
+    "drug_name": "CI-1040",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL507361",
+    "drug_name": "MIRDAMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL3187723",
+    "drug_name": "BINIMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36507",
+    "target_chembl_id": "CHEMBL2964",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+    "molecule_chembl_id": "CHEMBL2146883",
+    "drug_name": "COBIMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 2 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL1200485",
+    "drug_name": "SORAFENIB TOSYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL1567",
+    "drug_name": "SUNITINIB MALATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL52885",
+    "drug_name": "ENMD-981693",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL1721885",
+    "drug_name": "SU-014813",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL5314406",
+    "drug_name": "4SC-203",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL129857",
+    "drug_name": "AS-602868",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL574738",
+    "drug_name": "AST-487",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL3545427",
+    "drug_name": "CM-082",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL2035185",
+    "drug_name": "CT-1578",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL1908397",
+    "drug_name": "KW-2449",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL1944698",
+    "drug_name": "ZOTIRACICLIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL1980391",
+    "drug_name": "RG-1530",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL6067987",
+    "drug_name": "CEP-2563 DIHYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL4790100",
+    "drug_name": "AKN-028",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL495727",
+    "drug_name": "AT-9283",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL338604",
+    "drug_name": "C-1311",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL2105728",
+    "drug_name": "CRENOLANIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL482968",
+    "drug_name": "ENMD-2076",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL1230609",
+    "drug_name": "FORETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P36888",
+    "target_chembl_id": "CHEMBL1974",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "molecule_chembl_id": "CHEMBL124660",
+    "drug_name": "TANDUTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase receptor FLT3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL3644672",
+    "drug_name": "BAY-1082439",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL3622533",
+    "drug_name": "FIMEPINOSTAT",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL3935857",
+    "drug_name": "SERABELISIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL1258517",
+    "drug_name": "PKI-179",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL3545323",
+    "drug_name": "PWT-33579",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL2396661",
+    "drug_name": "ALPELISIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL3545068",
+    "drug_name": "COPANLISIB HYDROCHLORIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL3218576",
+    "drug_name": "COPANLISIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42336",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL4650215",
+    "drug_name": "INAVOLISIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42338",
+    "target_chembl_id": "CHEMBL3145",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",
+    "molecule_chembl_id": "CHEMBL3408248",
+    "drug_name": "AZD-8186",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-beta subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42338",
+    "target_chembl_id": "CHEMBL3145",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",
+    "molecule_chembl_id": "CHEMBL3644672",
+    "drug_name": "BAY-1082439",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-beta subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42338",
+    "target_chembl_id": "CHEMBL3145",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",
+    "molecule_chembl_id": "CHEMBL3622533",
+    "drug_name": "FIMEPINOSTAT",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-beta subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42338",
+    "target_chembl_id": "CHEMBL3145",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",
+    "molecule_chembl_id": "CHEMBL3188551",
+    "drug_name": "GSK-2636771",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-beta subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P42338",
+    "target_chembl_id": "CHEMBL3145",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",
+    "molecule_chembl_id": "CHEMBL3112866",
+    "drug_name": "SAR-260301",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "PI3-kinase p110-beta subunit inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL4116008",
+    "drug_name": "CERDULATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL5314384",
+    "drug_name": "R-348",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL2106468",
+    "drug_name": "TRICETAMIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL405130",
+    "drug_name": "WHI-P131",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL495727",
+    "drug_name": "AT-9283",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL3545159",
+    "drug_name": "R-333",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL3039513",
+    "drug_name": "DECERNOTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL4085457",
+    "drug_name": "RITLECITINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL5314649",
+    "drug_name": "RITLECITINIB TOSYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL3301607",
+    "drug_name": "FILGOTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL4298167",
+    "drug_name": "FILGOTINIB MALEATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL5315119",
+    "drug_name": "UPADACITINIB HEMIHYDRATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P52333",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "molecule_chembl_id": "CHEMBL4594382",
+    "drug_name": "DEURUXOLITINIB PHOSPHATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  {
+    "uniprot_accession": "P53041",
+    "target_chembl_id": "CHEMBL3425389",
+    "target_name": "Serine/threonine-protein phosphatase 5",
+    "molecule_chembl_id": "CHEMBL4297300",
+    "drug_name": "LB-100",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine-protein phosphatase 5 inhibitor"
+  },
+  {
+    "uniprot_accession": "P56159",
+    "target_chembl_id": "CHEMBL3833481",
+    "target_name": "GDNF family receptor alpha-1",
+    "molecule_chembl_id": "CHEMBL2108380",
+    "drug_name": "LIATERMIN",
+    "action_type": "AGONIST",
+    "mechanism_of_action": "GDNF family receptor alpha-1 agonist"
+  },
+  {
+    "uniprot_accession": "P62714",
+    "target_chembl_id": "CHEMBL2435",
+    "target_name": "Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform",
+    "molecule_chembl_id": "CHEMBL4297300",
+    "drug_name": "LB-100",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine protein phosphatase 2A, catalytic subunit, beta isoform inhibitor"
+  },
+  {
+    "uniprot_accession": "P67775",
+    "target_chembl_id": "CHEMBL4703",
+    "target_name": "Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform",
+    "molecule_chembl_id": "CHEMBL4297300",
+    "drug_name": "LB-100",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform inhibitor"
+  },
+  {
+    "uniprot_accession": "Q01344",
+    "target_chembl_id": "CHEMBL3580483",
+    "target_name": "Interleukin-5 receptor subunit alpha",
+    "molecule_chembl_id": "CHEMBL1742991",
+    "drug_name": "BENRALIZUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Interleukin-5 receptor subunit alpha inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL2105741",
+    "drug_name": "TRAMETINIB DIMETHYL SULFOXIDE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL2364607",
+    "drug_name": "COBIMETINIB FUMARATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL3545243",
+    "drug_name": "AS-703988",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL3182621",
+    "drug_name": "AZD-8330",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL2104954",
+    "drug_name": "BALAMAPIMOD",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL3264002",
+    "drug_name": "AVUTOMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL1614766",
+    "drug_name": "RO-4987655",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL1615025",
+    "drug_name": "TAK-733",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL3545145",
+    "drug_name": "WX-554",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL2107832",
+    "drug_name": "PIMASERTIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL1614701",
+    "drug_name": "SELUMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL1236682",
+    "drug_name": "REFAMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL105442",
+    "drug_name": "CI-1040",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL1097999",
+    "drug_name": "E-6201",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL507361",
+    "drug_name": "MIRDAMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL3187723",
+    "drug_name": "BINIMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02750",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "molecule_chembl_id": "CHEMBL2146883",
+    "drug_name": "COBIMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02763",
+    "target_chembl_id": "CHEMBL4128",
+    "target_name": "Angiopoietin-1 receptor",
+    "molecule_chembl_id": "CHEMBL1946170",
+    "drug_name": "REGORAFENIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase TIE-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02763",
+    "target_chembl_id": "CHEMBL4128",
+    "target_name": "Angiopoietin-1 receptor",
+    "molecule_chembl_id": "CHEMBL24828",
+    "drug_name": "VANDETANIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase TIE-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02763",
+    "target_chembl_id": "CHEMBL4128",
+    "target_name": "Angiopoietin-1 receptor",
+    "molecule_chembl_id": "CHEMBL3991932",
+    "drug_name": "PEXMETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase TIE-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02763",
+    "target_chembl_id": "CHEMBL4128",
+    "target_name": "Angiopoietin-1 receptor",
+    "molecule_chembl_id": "CHEMBL3910075",
+    "drug_name": "CE-245677",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase TIE-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02763",
+    "target_chembl_id": "CHEMBL4128",
+    "target_name": "Angiopoietin-1 receptor",
+    "molecule_chembl_id": "CHEMBL2010872",
+    "drug_name": "CEP-11981",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase TIE-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02763",
+    "target_chembl_id": "CHEMBL4128",
+    "target_name": "Angiopoietin-1 receptor",
+    "molecule_chembl_id": "CHEMBL3545365",
+    "drug_name": "ALTIRATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase TIE-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02763",
+    "target_chembl_id": "CHEMBL4128",
+    "target_name": "Angiopoietin-1 receptor",
+    "molecule_chembl_id": "CHEMBL1230609",
+    "drug_name": "FORETINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase TIE-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q02763",
+    "target_chembl_id": "CHEMBL4128",
+    "target_name": "Angiopoietin-1 receptor",
+    "molecule_chembl_id": "CHEMBL3989914",
+    "drug_name": "GLESATINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Tyrosine-protein kinase TIE-2 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q05397",
+    "target_chembl_id": "CHEMBL2695",
+    "target_name": "Focal adhesion kinase 1",
+    "molecule_chembl_id": "CHEMBL3657311",
+    "drug_name": "IFEBEMTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Focal adhesion kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q05397",
+    "target_chembl_id": "CHEMBL2695",
+    "target_name": "Focal adhesion kinase 1",
+    "molecule_chembl_id": "CHEMBL3951811",
+    "drug_name": "CEP-37440",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Focal adhesion kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q05397",
+    "target_chembl_id": "CHEMBL2695",
+    "target_name": "Focal adhesion kinase 1",
+    "molecule_chembl_id": "CHEMBL4742157",
+    "drug_name": "GSK-2256098",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Focal adhesion kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q05397",
+    "target_chembl_id": "CHEMBL2695",
+    "target_name": "Focal adhesion kinase 1",
+    "molecule_chembl_id": "CHEMBL1084546",
+    "drug_name": "PF-00562271",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Focal adhesion kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q05397",
+    "target_chembl_id": "CHEMBL2695",
+    "target_name": "Focal adhesion kinase 1",
+    "molecule_chembl_id": "CHEMBL3040440",
+    "drug_name": "VS-4718",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Focal adhesion kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q05397",
+    "target_chembl_id": "CHEMBL2695",
+    "target_name": "Focal adhesion kinase 1",
+    "molecule_chembl_id": "CHEMBL3137331",
+    "drug_name": "DEFACTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Focal adhesion kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q05397",
+    "target_chembl_id": "CHEMBL2695",
+    "target_name": "Focal adhesion kinase 1",
+    "molecule_chembl_id": "CHEMBL3899477",
+    "drug_name": "CONTELTINIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Focal adhesion kinase 1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q07817",
+    "target_chembl_id": "CHEMBL4625",
+    "target_name": "Bcl-2-like protein 1",
+    "molecule_chembl_id": "CHEMBL2107358",
+    "drug_name": "OBATOCLAX MESYLATE",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Apoptosis regulator Bcl-X inhibitor"
+  },
+  {
+    "uniprot_accession": "Q07817",
+    "target_chembl_id": "CHEMBL4625",
+    "target_name": "Bcl-2-like protein 1",
+    "molecule_chembl_id": "CHEMBL443684",
+    "drug_name": "NAVITOCLAX",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Apoptosis regulator Bcl-X inhibitor"
+  },
+  {
+    "uniprot_accession": "Q15389",
+    "target_chembl_id": "CHEMBL3217395",
+    "target_name": "Angiopoietin-1",
+    "molecule_chembl_id": "CHEMBL2108568",
+    "drug_name": "TREBANANIB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Angiopoietin-1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q15389",
+    "target_chembl_id": "CHEMBL3217395",
+    "target_name": "Angiopoietin-1",
+    "molecule_chembl_id": "CHEMBL2109586",
+    "drug_name": "AMG-780",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Angiopoietin-1 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q16584",
+    "target_chembl_id": "CHEMBL2708",
+    "target_name": "Mitogen-activated protein kinase kinase kinase 11",
+    "molecule_chembl_id": "CHEMBL290352",
+    "drug_name": "CEP-1347",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Mitogen-activated protein kinase kinase kinase 11 inhibitor"
+  },
+  {
+    "uniprot_accession": "Q99075",
+    "target_chembl_id": "CHEMBL3286070",
+    "target_name": "Proheparin-binding EGF-like growth factor",
+    "molecule_chembl_id": "CHEMBL2109437",
+    "drug_name": "KHK-2866",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Proheparin-binding EGF-like growth factor inhibitor"
+  },
+  {
+    "uniprot_accession": "Q9GZV9",
+    "target_chembl_id": "CHEMBL3713913",
+    "target_name": "Fibroblast growth factor 23",
+    "molecule_chembl_id": "CHEMBL3707326",
+    "drug_name": "BUROSUMAB",
+    "action_type": "INHIBITOR",
+    "mechanism_of_action": "Fibroblast growth factor 23 inhibitor"
+  }
+]
