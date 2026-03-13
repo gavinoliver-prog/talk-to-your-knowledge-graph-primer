@@ -134,9 +134,10 @@ WHERE {
 
 ---
 
-### Natural Language Queries (this requires an (e.g. OpenAI) LLM API key)
+### Natural Language Queries 
 
 The notebook also demonstrates a **"talk to your graph"** workflow:
+This requires an LLM API key - OpenAI is used in the notebook example.
 
 1. A user asks a question in natural language
 2. An LLM converts the question into SPARQL
