@@ -1,0 +1,12 @@
+requests>=2.31.0
+rdflib>=7.0.0
+openai>=1.30.0
+jupyterlab>=4.0.0
+jupyter_server>=2.0.0
+jupyter_core>=5.0.0
+ipykernel>=6.0.0
+networkx>=3.3
+pyvis>=0.3.2
+tqdm>=4.66.0
+ipywidgets>=8.1.0
+pandas>=2.2.0

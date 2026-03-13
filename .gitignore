@@ -30,3 +30,10 @@ r/renv/library/
 
 # Logs
 *.log
+
+#PyVis
+lib/
+drug_target_graph.html
+
+#intermediates
+python/
