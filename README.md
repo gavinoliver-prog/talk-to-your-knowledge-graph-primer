@@ -1,8 +1,8 @@
 # Biomedical Knowledge Graph Primer
 
-This project demonstrates how to build and query a **small biomedical knowledge graph** using real public biological data sources. The entire workflow is implemented in a single Jupyter notebook that retrieves data, constructs an RDF graph, performs SPARQL queries, and enables natural-language interaction with the graph using an LLM.
+This project demonstrates how to build and query a small biomedical knowledge graph using real public biological data sources. The  workflow is implemented in a single Jupyter notebook that retrieves data, constructs an RDF graph, performs SPARQL queries, and enables natural-language interaction with the graph using an LLM.
 
-The goal is to provide a **clear, practical example** of how biomedical knowledge graphs can be constructed and explored using modern Python tools.
+The goal is to provide a clear, practical example of how biomedical knowledge graphs can be constructed and explored using modern Python tools.
 
 ---
 
@@ -10,13 +10,13 @@ The goal is to provide a **clear, practical example** of how biomedical knowledg
 
 The notebook performs the following steps:
 
-1. Retrieve pathway participants from **Reactome**
-2. Extract proteins involved in the **RAF/MAP kinase signaling pathway**
-3. Query **ChEMBL** for drug–target relationships
-4. Query the **Open Targets Platform GraphQL API** for gene–disease associations
-5. Construct an **RDF knowledge graph** (Turtle format)
-6. Query the graph using **SPARQL**
-7. Enable **natural language queries** using an LLM
+1. Retrieve pathway participants from Reactome
+2. Extract proteins involved in the RAF/MAP kinase signaling pathway
+3. Query ChEMBL for drug–target relationships
+4. Query the Open Targets Platform GraphQL API for gene–disease associations
+5. Construct an RDF knowledge graph (Turtle format)
+6. Query the graph using SPARQL
+7. Enable natural language queries using an LLM
 
 The resulting graph connects four biological entity types:
 
@@ -28,11 +28,11 @@ Drug → Protein → Disease
 
 ## Data Sources
 
-This project integrates several public biological resources:
+As stated, the project integrates several public biological resources:
 
-- **Reactome** — pathway and molecular interaction data  
-- **ChEMBL** — drug–target relationships  
-- **Open Targets Platform** — gene–disease associations  
+- Reactome — pathway and molecular interaction data  
+- ChEMBL — drug–target relationships  
+- Open Targets Platform** — gene–disease associations  
 
 All data is retrieved programmatically using public APIs.
 
@@ -64,7 +64,7 @@ The notebook contains the complete workflow including:
 
 ## Environment Setup
 
-This project uses **uv** for Python environment management.
+This project uses uv for Python environment management.
 
 Create the virtual environment:
 
@@ -94,7 +94,7 @@ notebooks/talk_to_your_graph_python_notebook.ipynb
 
 ## Knowledge Graph Construction
 
-The notebook integrates data from the three biological sources and constructs an RDF graph stored as:
+The notebook integrates data from the described biological sources and constructs an RDF graph stored as:
 
 ```
 data_processed/graph.ttl
@@ -119,7 +119,7 @@ Relationships include:
 
 ### SPARQL Queries
 
-The graph can be queried directly using **SPARQL** through RDFLib.
+The graph can be queried directly using SPARQL through RDFLib.
 
 Example query:
 
@@ -136,10 +136,10 @@ WHERE {
 
 ### Natural Language Queries 
 
-The notebook also demonstrates a **"talk to your graph"** workflow:
+The notebook also demonstrates a "talk to your graph" workflow:
 This requires an LLM API key - OpenAI is used in the notebook example.
 
-1. A user asks a question in natural language
+1. The user asks a question in natural language
 2. An LLM converts the question into SPARQL
 3. The SPARQL query is executed against the graph
 4. The results are summarized in natural language
@@ -156,7 +156,7 @@ Which drugs target proteins associated with melanoma?
 
 ## Purpose
 
-This project is intended as a **learning exercise** demonstrating:
+This project is intended as a learning exercise demonstrating:
 
 - biomedical data integration
 - RDF knowledge graph construction
@@ -167,7 +167,3 @@ This project is intended as a **learning exercise** demonstrating:
 The notebook provides a compact but realistic example of how knowledge graphs can support biomedical research workflows.
 
 ---
-
-## License
-
-This project uses publicly available datasets and is intended for educational purposes.
